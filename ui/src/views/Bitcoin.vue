@@ -21,7 +21,7 @@
             <small v-else class="ml-1 text-warning">Starting</small>
             <h3 class="d-block font-weight-bold mb-1">Bitcoin Node</h3>
             <span class="d-block text-muted">{{
-              version ? `Bitcoin Core ${version}` : "..."
+              version ? `Bitcoin knots ${version}` : "..."
             }}</span>
           </div>
         </div>
